@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera-Compose</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="take_camera_photo">Take Camera Photo</string>
+</resources>
